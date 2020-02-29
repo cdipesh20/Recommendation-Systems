@@ -14,6 +14,7 @@ RMSE Achieved: 1.09
 __3. Item Based Collaborative Filtering__
 
 This algorithm produces a rating for a Business by a User by combining ratings of similar Businesses for which User has given a rating.
+
 RMSE Achieved: 1.07
 
 Note: Also used Default Voting scheme in the User Based and Item Based model to achieve fast and accurate predictions.
