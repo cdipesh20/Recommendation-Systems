@@ -8,7 +8,7 @@ RMSE Achieved: 1.24
 
 __2. User Based Collaborative Filtering__
 
-This algorithm produces a rating for a Business by a User by combining ratings of similar Users using the Pearson Correlation distance met.   
+This algorithm produces a rating for a Business by a User by combining ratings of similar Users using the Pearson Correlation distance metric.   
 RMSE Achieved: 1.09
 
 __3. Item Based Collaborative Filtering__
